@@ -1,0 +1,14 @@
+# mac specific
+*DS_Store
+
+# ide specific
+.idea
+
+# python stuff
+*__pycache__
+
+# latex stuff
+*.texpadtmp
+
+# exclude data dir
+data/*
