@@ -33,7 +33,7 @@ This repository contains all build scripts to create the Named Entity Corpus Add
 * If you were unable to consolidate the links for some cases you can use the `-force` argument, causing the still ambiguous links to be skipped.
 
 ## Node types and relations
-* The 
+
 ### Nodes 
 - Country
   - name: the name of the country
